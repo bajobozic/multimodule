@@ -4,4 +4,6 @@ server:
 spring:
   profiles:
     active:
-    - native       
+    - native
+  application:
+    name: config-server           
